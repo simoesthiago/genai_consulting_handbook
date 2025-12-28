@@ -1,6 +1,6 @@
 # GenAI Consulting Handbook - Repository Blueprint
 
-Practical handbook for strategy/tech consultants to deliver GenAI / Agentic AI initiatives in enterprise contexts, with a focus on decision-making, architecture trade-offs, delivery readiness, and vendor/platform selection.
+Practical handbook for strategy consultants to deliver GenAI / Agentic AI initiatives in enterprise contexts, with a focus on decision-making, architecture trade-offs, delivery readiness, and vendor/platform selection.
 
 ## 1) Purpose of this repository
 This repository is meant to:
@@ -44,10 +44,6 @@ genai_consulting_handbook/
   - 5.1_books_and_papers.md
   - 5.2_courses_and_videos.md
 ```
-
-Notes:
-- The repo currently uses NN_topic/ folders and X.Y_topic.md files (chapter-style numbering).
-- There are a few typos in names (for example: 04_tools_and_palatforms/, 2.6_observality_llomps.md). Keep them as-is for now to avoid breaking links, but consider normalizing later.
 
 ## 3) What each folder is for
 - 01_foundations/: Core concepts (what it is, why it matters, key limitations).
