@@ -126,8 +126,8 @@ Rules:
 
 Recommended main-body layout (adapt per topic):
 
-1) `# 1. WHY IT MATTERS IN ENTERPRISE`  
-2) `# 2. WHAT IT IS (AND WHAT IT IS NOT)`  
+1) `# 1. WHAT IT IS (AND WHAT IT IS NOT)`  
+2) `# 2. WHY IT MATTERS IN ENTERPRISE`  
 3) `# 3. HOW IT WORKS (SYSTEM VIEW)`  
 4) `# 4. HOW TO IMPLEMENT (DELIVERY PLAYBOOK)`  
 5) `# 5. HOW TO MEASURE AND OPERATE`  
